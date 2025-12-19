@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/flow-chemistry-workflow-builder-1462-1471/frontend_flow_chemistry_form"
+}

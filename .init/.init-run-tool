@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/flow-chemistry-workflow-builder-1462-1471/frontend_flow_chemistry_form"
+}
